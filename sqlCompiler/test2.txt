@@ -1,0 +1,30 @@
+#from stu where age=19;
+#create table stu1(
+#      age int
+#;
+create table stu3 (
+      age int,
+      name varchar(10),
+      birthday date
+);
+create table teacher(
+      name varchar(10),
+      sex char(2),
+      age int
+);
+#drop table stu;
+drop table teacher;
+#select age from stu3 where age > 18;
+#select age,sex from teacher where sex ='男';
+#select age from stu;
+#select name from stu3 where age ='男'；
+insert into stu3 values(7,'daming','2000-10-03');
+insert into stu3 values(17,'tom','2000-10-04');
+insert into stu3 values(19,'tom2','2000-11-01');
+insert into stu3 values(18,'tom3','2000-10-01');
+insert into stu3 values(19,'sam','2000-10-01');
+select * from stu3 where age >=18 and birthday='2000-10-01';
+update stu3 set age=16 where name='tom' or age=19;
+#update stu3 set age=18 where birthday='sam';
+#delete from stu3 where name=18;
+delete from stu3 where name='sam';

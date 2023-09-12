@@ -1,0 +1,20 @@
+#from abc where age =10;
+/*create table student(
+	age int,
+	name varchar(20)
+;
+*/
+#select * from student;
+#drop from abc;
+#insert into table values(18,'zhangsan');
+/*create table student(
+	age int,
+	name varchar(a)
+);*/
+#update stu set age=abc;
+create table teacher(
+      name varchar(10),
+      id char(3),
+      age int
+);
+insert into teacher values(16,18,'zzz');

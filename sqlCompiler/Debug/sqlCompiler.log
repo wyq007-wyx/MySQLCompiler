@@ -1,0 +1,32 @@
+﻿  Global.cpp
+  SqlCompiler.cpp
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(342): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(344): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(355): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(364): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(378): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(441): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(443): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(693): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(760): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(788): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\实验\sqlcompiler\sqlcompiler\sqlcompiler.cpp(1020): warning C4018: “<”: 有符号/无符号不匹配
+  WordAnalyzer.cpp
+d:\编译原理\实验\sqlcompiler\sqlcompiler\wordanalyzer.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  sqlCompiler.vcxproj -> D:\编译原理\实验\sqlCompiler\Debug\sqlCompiler.exe

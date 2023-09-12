@@ -1,0 +1,4 @@
+#select name from stu where grade = 88.x ;
+#insert into stu values('zhang,18);
+#drop table woeuqoiwuouabb;
+select name from stu where grade ! 9;

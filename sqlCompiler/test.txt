@@ -1,0 +1,32 @@
+create table stu (
+      id char(3),
+      name varchar(10),
+      age int
+);
+create table teacher(
+      name varchar(10),
+      sex char(2),
+      age int
+);
+#这是一条单行注释
+drop table teacher;
+insert into stu values('001','zhang',18);
+insert into stu values('002','tom',17);
+insert into stu values('003','sam',19);
+--这是一条单行注释
+insert into stu values('004','amy',20);
+insert into stu values('005','lily',16);
+select name,age from stu where age > 17;
+/*  
+这是一条多行注释
+ */
+select * from stu where age >=18 and id <> '003';
+update stu set age=16 where name='tom' or age=19;
+delete from stu where name='sam';
+
+
+
+
+
+
+
